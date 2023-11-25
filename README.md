@@ -1,1 +1,2 @@
-# Maling-and-Report-creation
+# MailingAndReportCreation
+Mailing a Report
